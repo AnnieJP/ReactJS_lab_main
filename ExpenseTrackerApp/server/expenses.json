@@ -1,0 +1,67 @@
+{
+  "expenses": [
+    {
+      "payeeName": "Rahul",
+      "product": "Bike Repair",
+      "price": 1000,
+      "setDate": "2023-08-07",
+      "id": 1
+    },
+    {
+      "payeeName": "Rahul",
+      "product": "Movie",
+      "price": 1044,
+      "setDate": "2023-08-05",
+      "id": 2
+    },
+    {
+      "payeeName": "Ramesh",
+      "product": "Vegetables",
+      "price": 366,
+      "setDate": "2023-08-01",
+      "id": 3
+    },
+    {
+      "payeeName": "Rahul",
+      "product": "Water",
+      "price": 40,
+      "setDate": "2023-08-02",
+      "id": 4
+    },
+    {
+      "payeeName": "Ramesh",
+      "product": "Grocery",
+      "price": 192,
+      "setDate": "2023-08-03",
+      "id": 5
+    },
+    {
+      "payeeName": "Ramesh",
+      "product": "Internet Bills",
+      "price": 1099,
+      "setDate": "2023-08-15",
+      "id": 6
+    },
+    {
+      "payeeName": "Rahul",
+      "product": "LPG",
+      "price": 1100,
+      "setDate": "2023-08-19",
+      "id": 7
+    },
+    {
+      "payeeName": "Ramesh",
+      "product": "Water",
+      "price": 500,
+      "setDate": "2023-08-31",
+      "id": 8
+    },
+    {
+      "payeeName": "Ramesh",
+      "product": "Rice Bag",
+      "price": 500,
+      "setDate": "2023-08-25",
+      "id": 9
+    }
+  ]
+}

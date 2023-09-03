@@ -1,0 +1,60 @@
+{
+  "expenses": [
+    {
+      "expenseDescription": "Internet Expenses",
+      "payeeName": "Ramesh",
+      "price": 1100,
+      "date": "2023-08-26T00:00:00.000Z",
+      "id": 1
+    },
+    {
+      "expenseDescription": "Bike Maintainence Expenses",
+      "payeeName": "Rahul",
+      "price": 3500,
+      "date": "2023-08-26T00:00:00.000Z",
+      "id": 2
+    },
+    {
+      "expenseDescription": "Electricity Bill ",
+      "payeeName": "Ramesh",
+      "price": 2200,
+      "date": "2023-08-26T00:00:00.000Z",
+      "id": 3
+    },
+    {
+      "expenseDescription": "Dinner Expenses - Friday Night",
+      "payeeName": "Rahul",
+      "price": 1750,
+      "date": "2023-08-26T00:00:00.000Z",
+      "id": 4
+    },
+    {
+      "expenseDescription": "Saturday - Movie Night",
+      "payeeName": "Ramesh",
+      "price": 920,
+      "date": "2023-08-26T00:00:00.000Z",
+      "id": 5
+    },
+    {
+      "expenseDescription": "Grocery",
+      "payeeName": "Ramesh",
+      "price": 2468,
+      "date": "2023-08-28T00:00:00.000Z",
+      "id": 6
+    },
+    {
+      "expenseDescription": "Water",
+      "payeeName": "Rahul",
+      "price": 500,
+      "date": "2023-08-28T00:00:00.000Z",
+      "id": 7
+    },
+    {
+      "expenseDescription": "Rice Bag",
+      "payeeName": "Ramesh",
+      "price": 468,
+      "date": "2023-08-30T00:00:00.000Z",
+      "id": 8
+    }
+  ]
+}
